@@ -1,0 +1,9 @@
+region_id,region_name,state,making_charge_pct
+RG01,Hyderabad,Telangana,12
+RG02,Mumbai ,Maharashtra,12
+RG03,Delhi,Delhi,5
+RG04,Chennai,Tamil Nadu,8
+RG05,Kolkata,West Bengal,10
+RG06,Bengaluru,Karnataka,12
+RG07,Pune,Maharashtra,-3
+RG08,Jaipur,Rajasthan,5

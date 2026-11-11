@@ -1,0 +1,6 @@
+event_type,events_analysed,average_pre_post_price_change_pct,average_pre_post_price_difference,pre_event_observations,post_event_observations
+festival,76,0.6439199623889049,20.012484761904798,517,511
+promotion,70,0.9286534664763486,29.15409247757074,488,467
+import_duty_change,70,0.8383794964641038,26.56589510006897,479,480
+wedding_season,65,0.6732223400724996,21.023266666666622,442,448
+market_volatility,68,0.6771071090299761,21.211101890756353,468,466

@@ -1,0 +1,9 @@
+region_id,region_name,total_transactions,completed_transactions
+RG04,Chennai,316,145
+RG01,Hyderabad,349,171
+RG02,Mumbai,339,180
+RG06,Bengaluru,330,154
+RG08,Jaipur,315,146
+RG05,Kolkata,321,159
+RG03,Delhi,302,154
+RG07,Pune,324,165

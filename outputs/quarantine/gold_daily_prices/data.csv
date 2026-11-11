@@ -1,0 +1,5 @@
+market,price_date,price_per_10g_inr,usd_inr,global_gold_usd_oz,source_label,normalized_price_date,quarantine_reason
+India,2025-01-31,unknown,86.46,2615.43,market close,2025-01-31,INVALID_INR_PRICE
+India,2025-02-14,-2500,85.57,2833.52,market close,2025-02-14,NON_POSITIVE_INR_PRICE
+India,2025/02/24,2761.88,83.1,2904.72,daily_close,2025-02-24,CONFLICTING_PRICE_RECORDS
+India,2025-02-24,2732.12,82.43,2561.69,daily_close,2025-02-24,CONFLICTING_PRICE_RECORDS

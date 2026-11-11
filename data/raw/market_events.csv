@@ -1,0 +1,351 @@
+event_id,event_date,event_type,region_id,notes
+ME00001,2025-04-21,wedding_season,RG02,local promotion
+ME00002,2025-02-04,market_volatility,RG01,price volatility
+ME00003,2025-02-25,promotion,RG07,price volatility
+ME00004,2025-01-10,market_volatility,RG03,local promotion
+ME00005,2025-01-10,festival,RG03,
+ME00006,2025-05-12,promotion,RG06,local promotion
+ME00007,2025-01-15,import_duty_change,RG05,high demand
+ME00008,2025-04-17,festival,RG02,local promotion
+ME00009,2025-02-01,import_duty_change,RG01,
+ME00010,2025-12-27,festival,RG03,price volatility
+ME00011,2025-12-17,promotion,RG01,seasonal demand
+ME00012,2025-06-06,festival,RG06,high demand
+ME00013,2025-09-30,import_duty_change,RG77,price volatility
+ME00014,2025-01-03,wedding_season,RG05,
+ME00015,2025-01-10,wedding_season,RG01,price volatility
+ME00016,2025-04-28,wedding_season,RG07,high demand
+ME00017,2025-08-17,wedding_season,RG04,price volatility
+ME00018,bad_date,import_duty_change,RG06,seasonal demand
+ME00019,2025-04-13,wedding_season,RG02,high demand
+ME00020,2025-11-09,wedding_season,RG04,seasonal demand
+ME00021,2025-02-15,wedding_season,RG02,
+ME00022,2025-04-25,wedding_season,RG07,high demand
+ME00023,2025-09-15,festival,RG08,local promotion
+ME00024,2025-02-28,wedding_season,RG08,price volatility
+ME00025,2025-10-09,promotion,RG06,price volatility
+ME00026,2025-05-13,market_volatility,RG06,high demand
+ME00027,2025-05-20,import_duty_change,RG06,high demand
+ME00028,2025-02-15,festival,RG07,local promotion
+ME00029,2025-09-02,market_volatility,RG08,price volatility
+ME00030,2025-11-27,wedding_season,RG07,local promotion
+ME00031,2025-02-03,import_duty_change,RG05,
+ME00032,2025-05-06,promotion,RG06,seasonal demand
+ME00033,2025-04-11,wedding_season,RG08,
+ME00034,2025-07-30,wedding_season,RG02,seasonal demand
+ME00035,2025-07-13,import_duty_change,RG03,
+ME00036,2025-04-10,market_volatility,RG01,
+ME00037,2025-02-16,festival,RG04,seasonal demand
+ME00038,2025-02-08,festival,RG08,price volatility
+ME00039,2025-07-11,wedding_season,RG07,local promotion
+ME00040,2025-10-30,import_duty_change,RG05,high demand
+ME00041,2025-10-01,market_volatility,RG08,seasonal demand
+ME00042,2025-11-11,promotion,RG05,
+ME00043,2025-02-10,festival,RG02,seasonal demand
+ME00044,2025-04-03,market_volatility,RG01,high demand
+ME00045,2025-10-07,promotion,RG02,price volatility
+ME00046,2025-06-12,import_duty_change,RG05,
+ME00047,2025-12-21,promotion,RG02,local promotion
+ME00048,2025-05-25,market_volatility,RG08,price volatility
+ME00049,2025-10-21,promotion,RG03,
+ME00050,2025-10-29,festival,RG07,high demand
+ME00051,2025-08-05,import_duty_change,RG07,high demand
+ME00052,2025-11-26,import_duty_change,RG06,high demand
+ME00053,2025-10-29,promotion,RG08,high demand
+ME00054,2025-12-19,wedding_season,RG07,price volatility
+ME00055,2025-07-29,market_volatility,RG05,seasonal demand
+ME00056,2025-05-14,promotion,RG08,
+ME00057,2025-05-16,festival,RG08,price volatility
+ME00058,2025-03-17,market_volatility,RG08,price volatility
+ME00059,2025-02-24,festival,RG07,price volatility
+ME00060,2025-11-17,festival,RG04,local promotion
+ME00061,2025-02-21,wedding_season,RG02,price volatility
+ME00062,2025-02-12,import_duty_change,RG08,seasonal demand
+ME00063,2025-07-06,festival,RG01,high demand
+ME00064,2025-10-02,market_volatility,RG03,price volatility
+ME00065,2025-07-11,market_volatility,RG08,seasonal demand
+ME00066,2025-02-07,market_volatility,RG07,
+ME00067,2025-11-16,import_duty_change,RG02,price volatility
+ME00068,2025-02-21,wedding_season,RG02,seasonal demand
+ME00069,2025-03-20,promotion,RG06,high demand
+ME00070,2025-10-19,promotion,RG04,seasonal demand
+ME00071,2025-01-13,import_duty_change,RG07,high demand
+ME00072,2025-09-22,festival,RG05,price volatility
+ME00073,2025-12-02,import_duty_change,RG02,price volatility
+ME00074,2025-01-07,festival,RG01,
+ME00075,2025-04-23,import_duty_change,RG07,
+ME00076,2025-10-01,market_volatility,RG07,seasonal demand
+ME00077,2025-08-21,import_duty_change,RG02,price volatility
+ME00078,2025-12-21,market_volatility,RG05,price volatility
+ME00079,2025-03-02,festival,RG01,seasonal demand
+ME00080,2025-01-01,festival,RG08,
+ME00081,2025-11-17,festival,RG05,local promotion
+ME00082,2025-12-31,promotion,RG02,
+ME00083,2025-02-11,festival,RG02,high demand
+ME00084,2025-02-18,market_volatility,RG01,
+ME00085,2025-12-26,festival,RG01,
+ME00086,2025-02-02,promotion,RG06,
+ME00087,2025-07-01,wedding_season,RG06,high demand
+ME00088,2025-01-30,market_volatility,RG02,local promotion
+ME00089,2025-08-13,promotion,RG06,price volatility
+ME00090,2025-02-24,promotion,RG06,price volatility
+ME00091,2025-02-22,import_duty_change,RG02,local promotion
+ME00092,2025-01-08,festival,RG01,
+ME00093,2025-10-09,wedding_season,RG06,price volatility
+ME00094,2025-07-05,wedding_season,RG07,
+ME00095,2025-12-13,promotion,RG02,high demand
+ME00096,2025-10-04,import_duty_change,RG01,seasonal demand
+ME00097,2025-11-26,import_duty_change,RG08,high demand
+ME00098,2025-05-06,market_volatility,RG04,local promotion
+ME00099,2025-07-28,wedding_season,RG02,high demand
+ME00100,2025-05-18,wedding_season,RG02,local promotion
+ME00101,2025-08-28,festival,RG03,price volatility
+ME00102,2025-09-13,festival,RG06,price volatility
+ME00103,2025-08-18,import_duty_change,RG01,
+ME00104,2025-06-07,wedding_season,RG05,local promotion
+ME00105,2025-12-04,import_duty_change,RG05,seasonal demand
+ME00106,2025-05-24,festival,RG04,seasonal demand
+ME00107,2025-02-10,wedding_season,RG05,
+ME00108,2025-08-24,market_volatility,RG08,
+ME00109,2025-06-07,wedding_season,RG03,seasonal demand
+ME00110,2025-07-27,import_duty_change,RG02,price volatility
+ME00111,2025-06-02,festival,RG07,price volatility
+ME00112,2025-05-26,wedding_season,RG08,local promotion
+ME00113,2025-03-22,promotion,RG02,price volatility
+ME00114,2025-11-30,promotion,RG03,
+ME00115,2025-01-17,market_volatility,RG02,seasonal demand
+ME00116,2025-10-25,promotion,RG05,price volatility
+ME00117,2025-07-22,wedding_season,RG07,seasonal demand
+ME00118,2025-07-22,festival,RG01,seasonal demand
+ME00119,2025-11-09,festival,RG05,price volatility
+ME00120,2025-08-09,market_volatility,RG01,high demand
+ME00121,2025-04-25,import_duty_change,RG01,
+ME00122,2025-05-30,wedding_season,RG02,high demand
+ME00123,2025-01-31,wedding_season,RG08,seasonal demand
+ME00124,2025-03-17,promotion,RG03,price volatility
+ME00125,2025-09-13,wedding_season,RG03,local promotion
+ME00126,2025-12-14,promotion,RG07,seasonal demand
+ME00127,2025-07-22,promotion,RG03,seasonal demand
+ME00128,2025-10-24,festival,RG07,seasonal demand
+ME00129,2025-08-03,wedding_season,RG02,local promotion
+ME00130,2025-03-28,promotion,RG08,high demand
+ME00131,2025-10-31,import_duty_change,RG07,
+ME00132,2025-05-27,festival,RG03,local promotion
+ME00133,2025-11-25,festival,RG05,price volatility
+ME00134,2025-07-23,wedding_season,RG03,local promotion
+ME00135,2025-12-23,promotion,RG02,
+ME00136,2025-11-17,market_volatility,RG04,high demand
+ME00137,2025-03-14,import_duty_change,RG02,seasonal demand
+ME00138,2025-04-20,wedding_season,RG02,
+ME00139,2025-03-31,wedding_season,RG01,price volatility
+ME00140,2025-04-30,promotion,RG07,
+ME00141,2025-03-03,wedding_season,RG08,price volatility
+ME00142,2025-05-16,market_volatility,RG02,
+ME00143,2025-11-26,market_volatility,RG07,local promotion
+ME00144,2025-02-20,import_duty_change,RG06,price volatility
+ME00145,2025-04-07,festival,RG03,high demand
+ME00146,2025-06-20,promotion,RG03,
+ME00147,2025-10-08,wedding_season,RG04,price volatility
+ME00148,2025-05-13,wedding_season,RG06,high demand
+ME00149,2025-11-26,import_duty_change,RG07,seasonal demand
+ME00150,2025-11-04,import_duty_change,RG08,
+ME00151,2025-12-10,market_volatility,RG01,
+ME00152,2025-09-27,wedding_season,RG03,
+ME00153,2025-12-06,festival,RG06,price volatility
+ME00154,2025-08-04,promotion,RG07,local promotion
+ME00155,2025-01-31,import_duty_change,RG03,high demand
+ME00156,2025-01-30,promotion,RG03,price volatility
+ME00157,2025-12-21,market_volatility,RG08,high demand
+ME00158,2025-05-10,festival,RG02,high demand
+ME00159,2025-10-30,import_duty_change,RG04,local promotion
+ME00160,2025-04-28,promotion,RG03,high demand
+ME00161,2025-06-20,market_volatility,RG02,seasonal demand
+ME00162,2025-12-07,wedding_season,RG07,price volatility
+ME00163,2025-02-04,festival,RG01,local promotion
+ME00164,2025-10-09,festival,RG05,high demand
+ME00165,2025-02-07,import_duty_change,RG01,high demand
+ME00166,2025-09-27,wedding_season,RG08,seasonal demand
+ME00167,2025-02-22,promotion,RG04,high demand
+ME00168,2025-07-21,market_volatility,RG06,price volatility
+ME00169,2025-11-16,wedding_season,RG04,high demand
+ME00170,2025-04-30,wedding_season,RG01,
+ME00171,2025-11-30,market_volatility,RG08,high demand
+ME00172,2025-05-18,import_duty_change,RG06,local promotion
+ME00173,2025-07-05,market_volatility,RG04,price volatility
+ME00174,2025-12-25,market_volatility,RG07,seasonal demand
+ME00175,2025-07-10,wedding_season,RG07,seasonal demand
+ME00176,2025-09-05,promotion,RG04,
+ME00177,2025-12-07,market_volatility,RG01,
+ME00178,2025-01-28,festival,RG04,
+ME00179,2025-11-09,market_volatility,RG01,
+ME00180,2025-06-07,market_volatility,RG07,local promotion
+ME00181,2025-08-24,wedding_season,RG07,seasonal demand
+ME00182,2025-10-15,import_duty_change,RG01,price volatility
+ME00183,2025-08-29,market_volatility,RG08,local promotion
+ME00184,2025-07-18,festival,RG08,price volatility
+ME00185,2025-01-05,market_volatility,RG08,
+ME00186,2025-05-26,market_volatility,RG04,seasonal demand
+ME00187,2025-10-13,promotion,RG07,high demand
+ME00188,2025-09-29,promotion,RG05,price volatility
+ME00189,2025-09-07,market_volatility,RG05,local promotion
+ME00190,2025-03-22,festival,RG04,seasonal demand
+ME00191,2025-08-02,promotion,RG04,high demand
+ME00192,2025-09-25,wedding_season,RG04,price volatility
+ME00193,2025-12-23,promotion,RG03,seasonal demand
+ME00194,2025-09-27,festival,RG04,high demand
+ME00195,2025-04-26,promotion,RG07,seasonal demand
+ME00196,2025-07-05,wedding_season,RG01,price volatility
+ME00197,2025-07-16,import_duty_change,RG04,local promotion
+ME00198,2025-06-19,market_volatility,RG07,price volatility
+ME00199,2025-09-25,market_volatility,RG03,local promotion
+ME00200,2025-12-15,wedding_season,RG07,local promotion
+ME00201,2025-10-22,import_duty_change,RG07,seasonal demand
+ME00202,2025-10-30,wedding_season,RG03,local promotion
+ME00203,2025-08-14,festival,RG06,
+ME00204,2025-04-07,market_volatility,RG01,seasonal demand
+ME00205,2025-12-18,festival,RG08,price volatility
+ME00206,2025-01-12,import_duty_change,RG07,local promotion
+ME00207,2025-06-05,festival,RG08,price volatility
+ME00208,2025-04-27,promotion,RG02,local promotion
+ME00209,2025-09-13,market_volatility,RG03,seasonal demand
+ME00210,2025-10-13,promotion,RG07,
+ME00211,2025-10-04,festival,RG06,high demand
+ME00212,2025-05-07,market_volatility,RG05,local promotion
+ME00213,2025-03-25,promotion,RG07,local promotion
+ME00214,2025-07-26,market_volatility,RG07,high demand
+ME00215,2025-04-07,festival,RG06,seasonal demand
+ME00216,2025-11-18,promotion,RG06,seasonal demand
+ME00217,2025-01-18,wedding_season,RG01,local promotion
+ME00218,2025-01-10,promotion,RG08,price volatility
+ME00219,2025-03-24,market_volatility,RG02,high demand
+ME00220,2025-03-23,festival,RG02,local promotion
+ME00221,2025-07-09,import_duty_change,RG05,price volatility
+ME00222,2025-08-02,festival,RG05,seasonal demand
+ME00223,2025-02-08,import_duty_change,RG06,price volatility
+ME00224,2025-12-22,wedding_season,RG02,local promotion
+ME00225,2025-01-22,import_duty_change,RG04,seasonal demand
+ME00226,2025-04-18,promotion,RG05,high demand
+ME00227,2025-06-08,promotion,RG07,high demand
+ME00228,2025-01-17,wedding_season,RG03,seasonal demand
+ME00229,2025-06-08,festival,RG04,seasonal demand
+ME00230,2025-04-24,promotion,RG08,local promotion
+ME00231,2025-10-10,festival,RG02,price volatility
+ME00232,2025-12-30,promotion,RG03,seasonal demand
+ME00233,2025-09-08,import_duty_change,RG08,high demand
+ME00234,2025-06-12,market_volatility,RG01,high demand
+ME00235,2025-06-06,festival,RG05,seasonal demand
+ME00236,2025-01-28,festival,RG08,
+ME00237,2025-12-12,festival,RG04,local promotion
+ME00238,2025-08-10,wedding_season,RG08,seasonal demand
+ME00239,2025-03-29,promotion,RG04,high demand
+ME00240,2025-11-04,market_volatility,RG02,high demand
+ME00241,2025-02-03,wedding_season,RG04,local promotion
+ME00242,2025-07-26,import_duty_change,RG03,price volatility
+ME00243,2025-12-04,wedding_season,RG07,seasonal demand
+ME00244,2025-12-08,festival,RG02,
+ME00245,2025-10-24,wedding_season,RG06,local promotion
+ME00246,2025-03-21,promotion,RG02,local promotion
+ME00247,2025-05-05,promotion,RG02,
+ME00248,2025-08-08,import_duty_change,RG02,seasonal demand
+ME00249,2025-12-17,market_volatility,RG06,price volatility
+ME00250,2025-07-19,import_duty_change,RG01,high demand
+ME00251,2025-03-21,market_volatility,RG04,high demand
+ME00252,2025-11-22,promotion,RG05,
+ME00253,2025-02-19,market_volatility,RG08,seasonal demand
+ME00254,2025-06-15,import_duty_change,RG06,price volatility
+ME00255,2025-10-04,festival,RG07,local promotion
+ME00256,2025-08-13,import_duty_change,RG04,
+ME00257,2025-01-30,promotion,RG02,local promotion
+ME00258,2025-03-10,promotion,RG02,local promotion
+ME00259,2025-08-19,festival,RG04,local promotion
+ME00260,2025-06-26,market_volatility,RG05,local promotion
+ME00261,2025-06-17,import_duty_change,RG01,
+ME00262,2025-12-02,festival,RG04,local promotion
+ME00263,2025-03-20,festival,RG05,high demand
+ME00264,2025-03-26,festival,RG04,price volatility
+ME00265,2025-03-21,market_volatility,RG07,seasonal demand
+ME00266,2025-07-22,market_volatility,RG04,local promotion
+ME00267,2025-02-23,festival,RG03,price volatility
+ME00268,2025-01-18,import_duty_change,RG08,seasonal demand
+ME00269,2025-12-16,promotion,RG02,high demand
+ME00270,2025-02-23,market_volatility,RG07,price volatility
+ME00271,2025-08-15,promotion,RG06,local promotion
+ME00272,2025-09-12,festival,RG05,seasonal demand
+ME00273,2025-09-23,import_duty_change,RG02,seasonal demand
+ME00274,2025-04-15,market_volatility,RG07,price volatility
+ME00275,2025-01-15,import_duty_change,RG04,price volatility
+ME00276,2025-10-31,market_volatility,RG03,price volatility
+ME00277,2025-12-08,market_volatility,RG05,price volatility
+ME00278,2025-03-31,promotion,RG04,
+ME00279,2025-10-08,wedding_season,RG05,price volatility
+ME00280,2025-05-31,wedding_season,RG02,
+ME00281,2025-05-18,festival,RG02,price volatility
+ME00282,2025-11-06,market_volatility,RG05,
+ME00283,2025-03-23,promotion,RG04,local promotion
+ME00284,2025-06-09,promotion,RG02,high demand
+ME00285,2025-09-17,import_duty_change,RG08,
+ME00286,2025-01-28,market_volatility,RG04,high demand
+ME00287,2025-12-06,wedding_season,RG02,
+ME00288,2025-09-29,wedding_season,RG04,high demand
+ME00289,2025-08-29,import_duty_change,RG05,high demand
+ME00290,2025-12-29,promotion,RG08,high demand
+ME00291,2025-01-28,festival,RG05,high demand
+ME00292,2025-04-17,market_volatility,RG01,high demand
+ME00293,2025-12-24,wedding_season,RG07,high demand
+ME00294,2025-04-15,import_duty_change,RG05,high demand
+ME00295,2025-11-07,market_volatility,RG06,
+ME00296,2025-08-29,import_duty_change,RG06,high demand
+ME00297,2025-10-24,import_duty_change,RG06,high demand
+ME00298,2025-01-12,import_duty_change,RG08,price volatility
+ME00299,2025-01-31,import_duty_change,RG04,local promotion
+ME00300,2025-09-10,festival,RG03,
+ME00301,2025-10-04,promotion,RG01,local promotion
+ME00302,2025-06-10,market_volatility,RG04,price volatility
+ME00303,2025-07-31,promotion,RG07,seasonal demand
+ME00304,2025-03-05,import_duty_change,RG04,price volatility
+ME00305,2025-07-28,promotion,RG05,high demand
+ME00306,2025-05-06,wedding_season,RG05,seasonal demand
+ME00307,2025-05-04,promotion,RG01,seasonal demand
+ME00308,2025-10-29,promotion,RG07,price volatility
+ME00309,2025-09-25,import_duty_change,RG05,seasonal demand
+ME00310,2025-02-15,market_volatility,RG08,price volatility
+ME00311,2025-05-16,import_duty_change,RG03,local promotion
+ME00312,2025-01-09,festival,RG04,local promotion
+ME00313,2025-04-27,market_volatility,RG03,
+ME00314,2025-03-11,wedding_season,RG05,price volatility
+ME00315,2025-06-14,wedding_season,RG04,
+ME00316,2025-12-12,market_volatility,RG03,price volatility
+ME00317,2025-11-01,festival,RG01,seasonal demand
+ME00318,2025-04-01,import_duty_change,RG07,
+ME00319,2025-05-24,import_duty_change,RG05,seasonal demand
+ME00320,2025-12-26,wedding_season,RG04,price volatility
+ME00321,2025-11-03,import_duty_change,RG04,seasonal demand
+ME00322,2025-08-16,promotion,RG03,price volatility
+ME00323,2025-10-26,promotion,RG03,local promotion
+ME00324,2025-05-16,festival,RG07,high demand
+ME00325,2025-02-10,festival,RG03,seasonal demand
+ME00326,2025-01-01,import_duty_change,RG04,
+ME00327,2025-08-16,market_volatility,RG04,price volatility
+ME00328,2025-08-10,festival,RG06,
+ME00329,2025-03-26,import_duty_change,RG08,local promotion
+ME00330,2025-07-01,promotion,RG02,local promotion
+ME00331,2025-04-28,festival,RG01,
+ME00332,2025-10-21,promotion,RG02,local promotion
+ME00333,2025-12-30,festival,RG02,
+ME00334,2025-01-16,import_duty_change,RG06,local promotion
+ME00335,2025-10-25,import_duty_change,RG08,price volatility
+ME00336,2025-02-22,import_duty_change,RG04,local promotion
+ME00337,2025-02-24,import_duty_change,RG06,seasonal demand
+ME00338,2025-12-13,festival,RG01,local promotion
+ME00339,2025-07-12,import_duty_change,RG06,high demand
+ME00340,2025-07-12,festival,RG03,seasonal demand
+ME00341,2025-06-08,promotion,RG05,high demand
+ME00342,2025-04-01,market_volatility,RG04,seasonal demand
+ME00343,2025-03-09,promotion,RG06,high demand
+ME00344,2025-07-10,import_duty_change,RG03,
+ME00345,2025-05-30,market_volatility,RG06,seasonal demand
+ME00346,2025-03-15,festival,RG01,local promotion
+ME00347,2025-03-03,festival,RG05,seasonal demand
+ME00348,2025-01-17,festival,RG04,high demand
+ME00349,2025-09-28,wedding_season,RG01,local promotion
+ME00350,2025-06-24,festival,RG03,price volatility

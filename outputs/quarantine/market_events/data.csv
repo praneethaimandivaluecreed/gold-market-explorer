@@ -1,0 +1,2 @@
+event_id,event_date,event_type,region_id,notes,quarantine_reason
+ME00018,bad_date,import_duty_change,RG06,seasonal demand,INVALID_EVENT_DATE

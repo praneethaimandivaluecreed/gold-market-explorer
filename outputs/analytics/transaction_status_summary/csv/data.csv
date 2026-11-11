@@ -1,0 +1,5 @@
+transaction_status,transaction_count
+completed,1274
+cancelled,442
+returned,419
+pending,462
